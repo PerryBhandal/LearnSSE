@@ -1,0 +1,12 @@
+*.py[cod]
+
+# Installer log
+pip-log.txt
+
+# Databases (sqlite)
+*.sqlite
+
+# Virtual env
+venv
+
+tmp/
